@@ -1,2 +1,2 @@
 # Hello_World
-Learning Hoe To Learn
+Learning How To Learn
